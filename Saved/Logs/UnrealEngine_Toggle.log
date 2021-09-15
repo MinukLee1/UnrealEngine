@@ -860,3 +860,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-14.56.40:360][740]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2021.09.15-14.56.40:360][740]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
 [2021.09.15-14.56.40:360][740]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-14.57.40:250][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.15-14.57.40:267][704]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_08297862FDE445B1634976BBEC81E7C253B7.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-14.57.40:273][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-14.57.40:293][704]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDaE0B4C4394230AA952DF8F3880B13FA86.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-14.57.40:305][704]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-14.57.40:305][704]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-14.57.40:305][704]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
