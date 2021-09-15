@@ -867,3 +867,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-14.57.40:305][704]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2021.09.15-14.57.40:305][704]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
 [2021.09.15-14.57.40:305][704]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-14.58.38:293][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.15-14.58.38:680][ 25]Cmd: TRANSACTION UNDO
+[2021.09.15-14.58.38:680][ 25]LogEditorTransaction: Undo 액터 클릭
+[2021.09.15-14.58.39:906][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.15-14.58.39:924][142]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829B9C5BE09422463C87E27CDB8AC1BB9C3.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-14.58.39:929][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-14.58.39:950][142]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDa90CC05FE48EB628A9912969C6F46951A.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-14.58.39:963][142]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-14.58.39:963][142]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-14.58.39:963][142]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
