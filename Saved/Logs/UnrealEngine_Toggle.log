@@ -877,3 +877,463 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-14.58.39:963][142]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2021.09.15-14.58.39:963][142]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
 [2021.09.15-14.58.39:963][142]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-15.54.38:906][634]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-15.54.38:919][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-15.54.38:920][634]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 9:54:38)
+[2021.09.15-15.54.38:921][634]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.15-15.54.38:923][634]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.15-15.54.38:923][634]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-15.54.38:926][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003189s)
+[2021.09.15-15.54.38:927][634]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-15.54.38:927][634]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2021.09.15-15.54.38:927][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.004270s)
+[2021.09.15-15.54.38:929][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.15-15.54.38:931][634]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-15.54.38:931][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-15.54.38:931][634]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-15.54.38:931][634]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-15.54.38:943][634]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-15.54.38:943][634]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-15.54.38:961][634]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-15.54.38:962][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-15.54.38:962][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-15.54.38:962][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-15.54.38:962][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-15.54.38:962][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-15.54.38:962][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-15.54.38:973][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-15.54.38:973][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-15.54.38:973][634]LogInit: FAudioDevice initialized.
+[2021.09.15-15.54.38:973][634]LogAudio: Display: Audio Device (ID: 2) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-15.54.38:987][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-15.54.38:989][634]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-00.54.38
+[2021.09.15-15.54.38:990][634]LogWorld: Bringing up level for play took: 0.001093
+[2021.09.15-15.54.38:990][634]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.15-15.54.38:997][634]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.15-15.54.39:000][634]PIE: 서버가 로그인했습니다.
+[2021.09.15-15.54.39:001][634]PIE: 에디터에서 플레이 총 시작 시간 0.085초입니다.
+[2021.09.15-15.54.43:828][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-15.54.43:828][189]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-15.54.43:829][189]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-15.54.43:829][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-15.54.43:838][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-15.54.43:839][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-15.54.43:842][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-15.54.43:842][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-15.54.43:843][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-15.54.43:858][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.09.15-15.54.43:891][191]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.15-15.54.57:217][374]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.09.15-15.54.57:883][443]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-15.54.57:889][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-15.54.57:890][443]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 9:54:57)
+[2021.09.15-15.54.57:929][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-15.54.57:932][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002656s)
+[2021.09.15-15.54.57:932][443]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-15.54.57:933][443]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2021.09.15-15.54.57:933][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.003874s)
+[2021.09.15-15.54.57:935][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.15-15.54.57:936][443]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-15.54.57:936][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-15.54.57:936][443]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-15.54.57:936][443]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-15.54.57:947][443]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-15.54.57:947][443]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-15.54.57:965][443]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-15.54.57:965][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-15.54.57:965][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-15.54.57:965][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-15.54.57:966][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-15.54.57:966][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-15.54.57:966][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-15.54.57:977][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-15.54.57:977][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-15.54.57:977][443]LogInit: FAudioDevice initialized.
+[2021.09.15-15.54.57:977][443]LogAudio: Display: Audio Device (ID: 3) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-15.54.57:981][443]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-15.54.57:982][443]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-00.54.57
+[2021.09.15-15.54.57:982][443]LogWorld: Bringing up level for play took: 0.000620
+[2021.09.15-15.54.57:983][443]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.09.15-15.54.57:985][443]PIE: 서버가 로그인했습니다.
+[2021.09.15-15.54.57:986][443]PIE: 에디터에서 플레이 총 시작 시간 0.099초입니다.
+[2021.09.15-15.55.03:712][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-15.55.03:712][125]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-15.55.03:712][125]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-15.55.03:713][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-15.55.03:722][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-15.55.03:724][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-15.55.03:726][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-15.55.03:726][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-15.55.03:727][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-15.55.03:739][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-15.55.03:741][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.15-15.55.03:781][128]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.09.15-15.55.07:729][601]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-16.03.23:920][592]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.09.15-16.03.24:633][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.15-16.04.56:877][813]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-16.05.09:476][511]LogRenderer: Reallocating scene render targets to support 1104x576 Format 10 NumSamples 1 (Frame:8775).
+[2021.09.15-16.05.15:834][986]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-16.05.28:973][552]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-16.05.55:165][325]LogEditorViewport: Clicking on Actor (context menu): Light_BP_C (Light_BP2)
+[2021.09.15-16.05.56:962][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Light_BP.Light_BP
+[2021.09.15-16.05.57:419][531]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.09.15-16.05.58:220][531]LogSlate: Took 0.004374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.15-16.05.58:296][532]LogSlate: Took 0.004632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.15-16.06.09:555][669]LogSlate: Window 'Light_BP' being destroyed
+[2021.09.15-16.06.09:563][669]LogSlate: Window 'Light_BP' being destroyed
+[2021.09.15-16.06.09:609][669]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.06.09:609][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.07.02:225][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-16.07.03:097][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-16.07.03:625][917]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-16.07.04:396][  9]LogEditorViewport: Clicking on Actor (context menu): Light_BP_C (Light_BP2)
+[2021.09.15-16.07.19:413][538]LogEditorViewport: Clicking on Actor (context menu): Light_BP_C (Light_BP2)
+[2021.09.15-16.07.21:647][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Light_BP.Light_BP
+[2021.09.15-16.09.56:138][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.09.15-16.09.56:140][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UnrealEngine_Toggle_0829' took 0.024
+[2021.09.15-16.09.56:141][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Light_BP] ([1] browsable assets)...
+[2021.09.15-16.09.56:154][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Light_BP.Light_BP]
+[2021.09.15-16.09.56:154][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Light_BP]
+[2021.09.15-16.09.56:164][277]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Light_BP_Auto1A451394549900B599E2465872D85F16A.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Autosaves/Game/Blueprints/Light_BP_Auto1.uasset'
+[2021.09.15-16.09.56:167][277]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.09.15-16.20.01:373][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.09.15-16.20.01:376][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UnrealEngine_Toggle_0829' took 0.019
+[2021.09.15-16.20.01:376][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Light_BP] ([1] browsable assets)...
+[2021.09.15-16.20.01:386][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Light_BP.Light_BP]
+[2021.09.15-16.20.01:386][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Light_BP]
+[2021.09.15-16.20.01:399][745]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Light_BP_Auto20685907E4151A28B2168C19E28D46619.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Autosaves/Game/Blueprints/Light_BP_Auto2.uasset'
+[2021.09.15-16.20.01:401][745]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.09.15-16.20.02:473][871]Cmd: DELETE
+[2021.09.15-16.20.02:474][871]Cmd: ACTOR DELETE
+[2021.09.15-16.20.02:481][871]LogEditorActor: Deleted Actor: Light_BP_C
+[2021.09.15-16.20.02:494][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.09.15-16.20.02:495][871]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.15-16.20.03:596][  3]Cmd: ACTOR HIDE SELECTED
+[2021.09.15-16.26.48:495][647]BlueprintLog: New page: Light_BP 컴파일
+[2021.09.15-16.26.48:523][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.15-16.26.59:953][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.15-16.26.59:971][356]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829900242904B5C794112F309A08F4F5AFD.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-16.26.59:977][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-16.26.59:998][356]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDa44826E82436C0A2B48E594A5272FAB2F.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-16.27.00:013][356]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-16.27.00:013][356]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-16.27.00:013][356]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-16.27.08:689][389]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-16.27.08:696][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-16.27.08:696][389]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 10:27:08)
+[2021.09.15-16.27.08:719][389]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.08:722][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002633s)
+[2021.09.15-16.27.08:723][389]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-16.27.08:723][389]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2021.09.15-16.27.08:723][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.003928s)
+[2021.09.15-16.27.08:738][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.09.15-16.27.08:739][389]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-16.27.08:739][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-16.27.08:739][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-16.27.08:740][389]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-16.27.08:740][389]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-16.27.08:752][389]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-16.27.08:752][389]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-16.27.08:771][389]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-16.27.08:771][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-16.27.08:771][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-16.27.08:771][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-16.27.08:772][389]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-16.27.08:772][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-16.27.08:772][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-16.27.08:783][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-16.27.08:783][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-16.27.08:783][389]LogInit: FAudioDevice initialized.
+[2021.09.15-16.27.08:783][389]LogAudio: Display: Audio Device (ID: 4) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-16.27.08:788][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-16.27.08:789][389]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-01.27.08
+[2021.09.15-16.27.08:789][389]LogWorld: Bringing up level for play took: 0.000666
+[2021.09.15-16.27.08:789][389]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.15-16.27.08:792][389]PIE: 서버가 로그인했습니다.
+[2021.09.15-16.27.08:792][389]PIE: 에디터에서 플레이 총 시작 시간 0.099초입니다.
+[2021.09.15-16.27.17:623][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.17:623][333]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.17:623][333]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.27.17:623][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.17:633][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-16.27.17:637][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.17:651][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.17:651][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.17:652][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.17:668][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.09.15-16.27.17:690][334]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.15-16.27.19:495][530]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-16.27.19:502][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-16.27.19:502][530]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 10:27:19)
+[2021.09.15-16.27.19:502][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.19:504][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2021.09.15-16.27.19:505][530]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-16.27.19:505][530]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2021.09.15-16.27.19:505][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.003636s)
+[2021.09.15-16.27.19:520][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.15-16.27.19:521][530]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-16.27.19:521][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-16.27.19:521][530]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-16.27.19:521][530]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-16.27.19:532][530]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-16.27.19:532][530]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-16.27.19:550][530]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-16.27.19:550][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-16.27.19:550][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-16.27.19:550][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-16.27.19:551][530]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-16.27.19:551][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-16.27.19:551][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-16.27.19:561][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-16.27.19:561][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-16.27.19:561][530]LogInit: FAudioDevice initialized.
+[2021.09.15-16.27.19:561][530]LogAudio: Display: Audio Device (ID: 5) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-16.27.19:566][530]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-16.27.19:567][530]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-01.27.19
+[2021.09.15-16.27.19:567][530]LogWorld: Bringing up level for play took: 0.000609
+[2021.09.15-16.27.19:567][530]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.09.15-16.27.19:570][530]PIE: 서버가 로그인했습니다.
+[2021.09.15-16.27.19:571][530]PIE: 에디터에서 플레이 총 시작 시간 0.072초입니다.
+[2021.09.15-16.27.24:662][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.24:662][129]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.24:662][129]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.27.24:662][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.24:673][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-16.27.24:677][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.24:691][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.24:691][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.24:692][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.24:707][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.15-16.27.24:752][131]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.15-16.27.34:444][993]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-16.27.34:451][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-16.27.34:451][993]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 10:27:34)
+[2021.09.15-16.27.34:451][993]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.34:453][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2021.09.15-16.27.34:454][993]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-16.27.34:454][993]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.09.15-16.27.34:454][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.003422s)
+[2021.09.15-16.27.34:469][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.09.15-16.27.34:471][993]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-16.27.34:471][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-16.27.34:471][993]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-16.27.34:471][993]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-16.27.34:482][993]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-16.27.34:482][993]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-16.27.34:500][993]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-16.27.34:500][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-16.27.34:500][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-16.27.34:500][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-16.27.34:501][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-16.27.34:501][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-16.27.34:501][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-16.27.34:512][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-16.27.34:512][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-16.27.34:512][993]LogInit: FAudioDevice initialized.
+[2021.09.15-16.27.34:512][993]LogAudio: Display: Audio Device (ID: 6) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-16.27.34:522][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-16.27.34:522][993]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-01.27.34
+[2021.09.15-16.27.34:523][993]LogWorld: Bringing up level for play took: 0.000636
+[2021.09.15-16.27.34:523][993]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.09.15-16.27.34:525][993]PIE: 서버가 로그인했습니다.
+[2021.09.15-16.27.34:526][993]PIE: 에디터에서 플레이 총 시작 시간 0.078초입니다.
+[2021.09.15-16.27.39:213][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.39:213][544]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.27.39:213][544]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.27.39:213][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.39:218][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-16.27.39:222][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.27.39:236][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.27.39:236][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.39:237][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.27.39:252][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.09.15-16.27.39:298][546]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.15-16.30.30:895][831]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-16.30.30:901][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-16.30.30:902][831]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 10:30:30)
+[2021.09.15-16.30.30:902][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.30.30:904][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
+[2021.09.15-16.30.30:905][831]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-16.30.30:905][831]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2021.09.15-16.30.30:905][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.003607s)
+[2021.09.15-16.30.30:920][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.09.15-16.30.30:921][831]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-16.30.30:921][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-16.30.30:921][831]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-16.30.30:921][831]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-16.30.30:932][831]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-16.30.30:932][831]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-16.30.30:950][831]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-16.30.30:950][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-16.30.30:950][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-16.30.30:950][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-16.30.30:951][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-16.30.30:951][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-16.30.30:951][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-16.30.30:962][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-16.30.30:962][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-16.30.30:962][831]LogInit: FAudioDevice initialized.
+[2021.09.15-16.30.30:962][831]LogAudio: Display: Audio Device (ID: 7) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-16.30.30:969][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-16.30.30:970][831]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-01.30.30
+[2021.09.15-16.30.30:970][831]LogWorld: Bringing up level for play took: 0.000634
+[2021.09.15-16.30.30:970][831]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.09.15-16.30.30:973][831]PIE: 서버가 로그인했습니다.
+[2021.09.15-16.30.30:973][831]PIE: 에디터에서 플레이 총 시작 시간 0.074초입니다.
+[2021.09.15-16.30.39:713][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.30.39:713][874]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.30.39:713][874]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.30.39:713][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.30.39:719][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-16.30.39:723][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.30.39:735][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.30.39:735][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.30.39:736][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.30.39:751][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.09.15-16.30.39:787][876]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.15-16.33.18:276][609]LogRenderer: Reallocating scene render targets to support 1104x776 Format 10 NumSamples 1 (Frame:1).
+[2021.09.15-16.37.01:849][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.15-16.37.03:188][386]BlueprintLog: New page: Light_BP 컴파일
+[2021.09.15-16.37.03:217][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.15-16.37.03:951][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-16.37.04:474][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-16.37.06:949][727]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP3)
+[2021.09.15-16.37.09:394][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-16.37.09:854][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-16.37.10:331][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-16.37.10:741][181]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP3)
+[2021.09.15-16.37.12:401][380]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.Trigger has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.Trigger' 
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:402][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:409][381]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture)
+[2021.09.15-16.37.12:426][383]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture)
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.Trigger has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.Trigger' 
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Scale for /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.09.15-16.37.12:776][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture' 
+[2021.09.15-16.37.12:784][426]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture)
+[2021.09.15-16.37.12:817][430]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829:PersistentLevel.Light_BP3.LampFixture)
+[2021.09.15-16.37.13:470][508]Cmd: TRANSACTION UNDO
+[2021.09.15-16.37.13:470][508]LogEditorTransaction: Undo 액터 스케일
+[2021.09.15-16.37.18:777][115]Cmd: TRANSACTION UNDO
+[2021.09.15-16.37.18:777][115]LogEditorTransaction: Undo 액터 스케일
+[2021.09.15-16.37.19:552][180]Cmd: EDIT COPY
+[2021.09.15-16.37.19:776][207]Cmd: EDIT PASTE
+[2021.09.15-16.37.37:232][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.09.15-16.37.37:256][284]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829860275F34400088C453FBB9E7FA19DEC.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-16.37.37:262][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-16.37.37:284][284]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDa531958DF4DCD80846537528283C4A17E.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-16.37.37:299][284]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-16.37.37:299][284]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-16.37.37:299][284]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-16.37.37:831][347]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.09.15-16.37.37:838][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-16.37.37:838][347]PIE: New page: PIE 세션: UnrealEngine_Toggle_0829 (2021. 9. 16. 오전 10:37:37)
+[2021.09.15-16.37.37:859][347]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.37.37:862][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2021.09.15-16.37.37:863][347]LogAIModule: Creating AISystem for world UnrealEngine_Toggle_0829
+[2021.09.15-16.37.37:863][347]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2021.09.15-16.37.37:863][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 to /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 (0.004256s)
+[2021.09.15-16.37.37:878][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.09.15-16.37.37:878][347]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-16.37.37:878][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-16.37.37:878][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-16.37.37:879][347]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-16.37.37:879][347]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-16.37.37:890][347]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-16.37.37:890][347]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-16.37.37:907][347]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2021.09.15-16.37.37:907][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-16.37.37:908][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-16.37.37:908][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-16.37.37:908][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-16.37.37:908][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-16.37.37:908][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-16.37.37:918][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-16.37.37:918][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-16.37.37:918][347]LogInit: FAudioDevice initialized.
+[2021.09.15-16.37.37:918][347]LogAudio: Display: Audio Device (ID: 8) registered with world 'UnrealEngine_Toggle_0829'.
+[2021.09.15-16.37.37:925][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.15-16.37.37:926][347]LogWorld: Bringing World /Game/UEDPIE_0_UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 up for play (max tick rate 0) at 2021.09.16-01.37.37
+[2021.09.15-16.37.37:926][347]LogWorld: Bringing up level for play took: 0.000624
+[2021.09.15-16.37.37:926][347]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.15-16.37.37:928][347]PIE: 서버가 로그인했습니다.
+[2021.09.15-16.37.37:929][347]PIE: 에디터에서 플레이 총 시작 시간 0.094초입니다.
+[2021.09.15-16.37.45:722][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.37.45:722][276]LogWorld: BeginTearingDown for /Game/UEDPIE_0_UnrealEngine_Toggle_0829
+[2021.09.15-16.37.45:723][276]LogWorld: UWorld::CleanupWorld for UnrealEngine_Toggle_0829, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-16.37.45:723][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.37.45:733][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-16.37.45:736][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-16.37.45:749][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-16.37.45:749][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.37.45:750][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-16.37.45:765][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.09.15-16.37.45:806][278]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.15-16.41.53:385][448]LogSlate: Window '색상 선택 툴' being destroyed
+[2021.09.15-16.47.45:339][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.09.15-16.47.45:362][380]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_Auto35D557BB64DC0D4BE16192191FCA4ADAE.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Autosaves/Game/UnrealEngine_Toggle_0829_Auto3.umap'
+[2021.09.15-16.47.45:370][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UnrealEngine_Toggle_0829' took 0.048
+[2021.09.15-16.47.45:371][380]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2021.09.15-16.47.45:371][380]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Light_BP] ([1] browsable assets)...
+[2021.09.15-16.47.45:392][380]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Light_BP.Light_BP]
+[2021.09.15-16.47.45:392][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Light_BP]
+[2021.09.15-16.47.45:406][380]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Light_BP_Auto3F5C7B65B405DDC65205528AB8B778899.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/Autosaves/Game/Blueprints/Light_BP_Auto3.uasset'
+[2021.09.15-16.47.45:409][380]LogFileHelpers: Auto-saving content packages took 0.039
