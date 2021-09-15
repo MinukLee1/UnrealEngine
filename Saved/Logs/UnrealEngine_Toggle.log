@@ -825,3 +825,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-14.55.15:108][615]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.177ms.
 [2021.09.15-14.55.15:108][615]LogFileHelpers: Loading map 'UnrealEngine_Toggle_0829' took 0.143
 [2021.09.15-14.55.15:108][615]LogSlate: Window '레벨 열기' being destroyed
+[2021.09.15-14.56.18:221][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.18:774][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.19:210][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.19:662][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.22:255][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.22:624][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.09.15-14.56.24:481][891]Cmd: EDIT CUT
+[2021.09.15-14.56.24:490][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.15-14.56.24:493][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.15-14.56.24:494][891]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.09.15-14.56.24:494][891]Cmd: TRANSACTION UNDO
+[2021.09.15-14.56.24:494][891]LogEditorTransaction: Undo 잘라내기
+[2021.09.15-14.56.24:979][922]Cmd: TRANSACTION UNDO
+[2021.09.15-14.56.24:979][922]LogEditorTransaction: Undo 액터 이동
+[2021.09.15-14.56.25:516][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.15-14.56.26:627][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-14.56.27:186][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-14.56.27:563][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-14.56.27:957][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.09.15-14.56.29:676][482]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP3)
+[2021.09.15-14.56.32:854][863]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP2)
+[2021.09.15-14.56.39:029][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.15-14.56.39:049][599]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829A7202A3345F04A3F02D8558F70FDC9DB.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-14.56.39:056][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-14.56.39:085][599]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDaF7F688F94E85BBAAB7C9B8B283470B7C.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-14.56.39:098][599]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-14.56.39:098][599]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-14.56.39:100][599]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
+[2021.09.15-14.56.40:297][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.15-14.56.40:320][740]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829E5C6D5A14908CDF35F16408C02CF4320.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829.umap'
+[2021.09.15-14.56.40:325][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealEngine_Toggle_0829_BuiltData" FILE="../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset" SILENT=true
+[2021.09.15-14.56.40:346][740]LogSavePackage: Moving '../../../../../../Users/www77/Documents/projects/UnrealEngine/Saved/UnrealEngine_Toggle_0829_BuiltDaAE7A9BB542A1F8AAC7322C98CED64063.tmp' to '../../../../../../Users/www77/Documents/projects/UnrealEngine/Content/UnrealEngine_Toggle_0829_BuiltData.uasset'
+[2021.09.15-14.56.40:360][740]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.15-14.56.40:360][740]LogContentValidation: Display: World /Game/UnrealEngine_Toggle_0829.UnrealEngine_Toggle_0829 유효성 검사
+[2021.09.15-14.56.40:360][740]LogContentValidation: Display: MapBuildDataRegistry /Game/UnrealEngine_Toggle_0829_BuiltData.UnrealEngine_Toggle_0829_BuiltData 유효성 검사
